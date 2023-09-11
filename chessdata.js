@@ -1224,24 +1224,6 @@ var chessdata = [
     opening_ply: 3
   },
   {
-    id: "nG3Of11I",
-    rated: "TRUE",
-    created_at: 1503790000000,
-    last_move_at: 1503790000000,
-    turns: 61,
-    victory_status: "resign",
-    winner: "white",
-    increment_code: "15+5",
-    white_id: "oldpaths",
-    white_rating: 1544,
-    black_id: "trump216bc",
-    black_rating: 1461,
-    moves: "d4 d5 Bf4 e6 Nf3 c5 c3 Nc6 e3 Nf6 Nbd2 Bd6 Bg3 cxd4 cxd4 Qb6 Bxd6 Nb4 Bxb4 Qxb4 b3 Bd7 Be2 h6 O-O g5 Ne5 O-O-O Nxf7 g4 Nxh8 Rxh8 f3 h5 fxg4 hxg4 Rxf6 Qe7 Qc2+ Kb8 Rff1 Qh4 Rf8+ Rxf8 g3 Qf6 Rf1 Qg7 Bxg4 Rxf1+ Kxf1 Qxg4 Kf2 Bb5 Nf3 Be8 Ne5 Qh3 Kg1 Bh5 Nd7+",
-    opening_eco: "D00",
-    opening_name: "Queen's Pawn Game: Mason Attack",
-    opening_ply: 3
-  },
-  {
     id: "cUzM68JF",
     rated: "TRUE",
     created_at: 1503710000000,
